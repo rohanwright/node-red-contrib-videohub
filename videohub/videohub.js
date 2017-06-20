@@ -5,7 +5,7 @@ module.exports = function (RED) {
 
 
 		var Router = require('io-videohub');
-		this.router = new Router({host: config.ip, port: '9991'});
+		this.router = new Router({host: config.ip, port: '9990'});
 		
 		this.router.on('update', function(callback) {
 			var msg = { payload: callback };
