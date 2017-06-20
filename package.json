@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-videohub",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Videohub control for Node Red",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/rohanwright/node-red-contrib-videohub#readme",
   "node-red": {
     "nodes": {
-      "redatem": "videohub/videohub.js"
+      "videohub": "videohub/videohub.js"
     }
   },
   "main": "index.js"
