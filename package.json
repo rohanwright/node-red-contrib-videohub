@@ -21,7 +21,7 @@
     "url": "git+https://github.com/rohanwright/node-red-contrib-videohub.git"
   },
   "author": "Rohan Wright <rohanwright@kardiniachurch.com> (https://github.com/rohanwright/node-red-contrib-videohub)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rohanwright/node-red-contrib-videohub/issues"
   },
